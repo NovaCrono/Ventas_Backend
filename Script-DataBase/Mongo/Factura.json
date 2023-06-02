@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6475f0a245d7f014d4a2f628"
+  },
+  "ID_Receptor": "66782731",
+  "Productos": [
+    "Camiseta Gris, Talla: L",
+    "Pantalón Jean, Azúl, Talla: 34",
+    "Camiseta Gris, Talla: L",
+    "Pantalón Jean, Azúl, Talla: 34"
+  ],
+  "Cantidades": [
+    12,
+    14,
+    42,
+    14
+  ],
+  "Descuentos": [
+    26,
+    2,
+    74,
+    9
+  ],
+  "Costos": [
+    119880,
+    260542.8,
+    147420,
+    265860
+  ],
+  "Total": 793702.8,
+  "Fecha": "30/5/2023",
+  "IDs": [
+    55,
+    56,
+    57,
+    60
+  ]
+},{
+  "_id": {
+    "$oid": "6475f1d645d7f014d4a2f629"
+  },
+  "ID_Receptor": "1111899292",
+  "Productos": [
+    "Pantalón Jean, Azúl, Talla: 34",
+    "Medias Negras, Talla: 12",
+    "Medias Negras, Talla: 12"
+  ],
+  "Cantidades": [
+    8,
+    32,
+    7
+  ],
+  "Descuentos": [
+    10,
+    45,
+    15
+  ],
+  "Costos": [
+    136728,
+    158224,
+    62930
+  ],
+  "Total": 357882,
+  "Fecha": "30/5/2023",
+  "IDs": [
+    58,
+    59,
+    61
+  ]
+}]
